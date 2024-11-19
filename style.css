@@ -6,20 +6,24 @@ html {
 
 h1 {
   color: blue;
+  background-color: yellow;
   font-size: 50px;
 }
 
 h2 {
   color: red;
+  background-color: yellow;
   font-size: 40px;
 }
 
 h3 {
   color: green;
+  background-color: yellow;
   font-size: 30px;
 }
 
 h4 {
   color: magenta;
+  background-color: yellow;
   font-size: 20px;
 }
