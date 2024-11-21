@@ -8,24 +8,6 @@ body {
   background-color: #dedede;
 }
 
-section {
-  height: 100px;
-  width: 45%;
-  background: #00ffff;
-}
-
-span {
-  height: 100px;
-  width: 45%;
-  background: #00ffff;
-}
-
-p {
-  height:100px;
-  width: 200px;
-  background: #ff00ff;
-}
-
 h1 {
   color: blue;
   background-color: yellow;
