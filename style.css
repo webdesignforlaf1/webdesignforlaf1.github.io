@@ -11,6 +11,8 @@ body {
 h1 {
   color: blue;
   background-color: yellow;
+  test-align: centre;
+  font-family: Arial, sans-serif;
   font-size: 50px;
 }
 
