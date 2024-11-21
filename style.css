@@ -4,6 +4,10 @@ html {
   color: purple
 }
 
+body {
+  background-color: #dedede;
+}
+
 h1 {
   color: blue;
   background-color: yellow;
