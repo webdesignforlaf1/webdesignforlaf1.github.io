@@ -47,17 +47,17 @@
     <figure id="one">
       <!-- Write your comments here -->
       <!-- <img src="GuyaneseRecipe.png" alt="Dumplings"> -->
-      <img src="GuyaneseRecipe.png" alt="Dumplings" style="width: 50%; height: 50%">
+      <img src="Images/GuyaneseRecipe.png" alt="Dumplings" style="width: 50%; height: 50%">
       <figcaption> A typical Guyanese Recipe</figcaption>
     </figure>
     <br>
     <figure id="two">
-      <img src="Cabbage.jpg" alt="Cabbage"  style="width: 50%; height: 50%">
+      <img src="Images/Cabbage.jpg" alt="Cabbage"  style="width: 50%; height: 50%">
       <figcaption> Cabbage Ingredient</figcaption>
     </figure>
     <br>
     <figure id="three">
-      <img src="Onion.jpg" alt="Onion"  style="width: 50%; height: 50%">
+      <img src="Images/Onion.jpg" alt="Onion"  style="width: 50%; height: 50%">
       <figcaption> Onion Ingredient</figcaption>
     </figure>
 	<p>Here is a link to more Guyanese recipees <a href="https://metemgee.com/category/guyanese-recipes/" target="_blank">Recipes for Guyanese meals </a> </p>
