@@ -11,7 +11,7 @@
   <meta name="author" content="Laurie Farnum">
   <link rel="icon" type="image/png" href="GuyaneseRecipe.png">
   <title>My Favorite Foods</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="css/mFF.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
