@@ -19,7 +19,7 @@
     <section>
       <h1> My Favorite Foods in Guyana </h1>
       <!-- Write your comments here -->
-      <!-- <h1 style="color: #00ff2d">My Favorite Foods <span style="color: red;font-family: verdana;font-size: 40px;font-style: italic"> growing </span> </h1>  -->
+      <!-- <h1 style="color: #00ff2d">My Favorite Foods <span style="color: red;font-family: verdana;font-style: italic"> growing </span> </h1>  -->
       <p>Growing up in Guyana, my favourite dishes were</p>
       <ol>
         <li> Fried Rice</li>
