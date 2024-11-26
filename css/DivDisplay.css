@@ -1,0 +1,51 @@
+span{
+  height: 50px;
+  width: 75px;
+  background-color: #00ff00;
+  /* display: block */
+}
+
+div{
+  height: 100px;
+  width: 45%;
+  background-color: #00ffff;
+  /* display: block */
+  /* color: blue; */
+  /* background-color: yellow; */
+  /* text-align: center; */
+  /* font-family: Arial, sans-serif; */
+  /* font-size: 50px; */
+}
+
+p{
+  height: 100px;
+  width: 200px;
+  background-color: #ff00ff;
+  /* display: block */
+}
+
+h2 {
+  color: red;
+  background-color: yellow;
+  text-align: right;
+  font-family: Courier New, Times New Roman;
+  font-size: 40px;
+}
+
+h3 {
+  color: green;
+  background-color: yellow;
+  font-size: 30px;
+}
+
+h4 {
+  color: magenta;
+  background-color: yellow;
+  font-size: 20px;
+}
+
+a {
+  color: #2000ff;
+  background-color: yellow;
+  font-size: 20px;
+}
