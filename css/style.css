@@ -18,7 +18,7 @@ h1 {
 
 h2 {
   color: red;
-  background-color: yellow;
+  background-color: #20ff00;
   text-align: right;
   font-family: Courier New, Times New Roman;
   font-size: 40px;
@@ -37,14 +37,12 @@ h4 {
 }
 
 a {
-  color: #2000ff;
-  background-color: yellow;
+  background-color: #20ff00;
   font-size: 20px;
 }
 
 p {
-  color: blue;
-  background-color: yellow;
+  background-color: #20ff00;
   text-align: left;
   font-family: Arial, sans-serif;
 }
