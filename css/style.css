@@ -1,50 +1,36 @@
-html {
-  height: 100%;
-  width: 100%;
-  color: purple
+body {
+  font-family: Courier New, Times New Roman;
+  font-size: 50px;
 }
 
-body {
+header {
   background-color: #dedede;
 }
 
-h1 {
-  color: blue;
-  background-color: yellow;
-  text-align: center;
-  font-family: Arial, sans-serif;
-  font-size: 50px;
-  height: 50%;
-  width: 75%;
+nav {
+  background-color: #00ffa6;
 }
 
-h2 {
-  color: red;
+main {
   background-color: #20ff00;
-  text-align: right;
-  font-family: Courier New, Times New Roman;
   font-size: 40px;
 }
 
-h3 {
-  color: green;
-  background-color: yellow;
-  font-size: 30px;
+footer {
+  background-color: #ffe000;
 }
 
-h4 {
-  color: magenta;
-  background-color: yellow;
-  font-size: 20px;
+li {
+  display: list-item;
+  width: fit-content;
 }
 
-a {
-  background-color: #20ff00;
-  font-size: 20px;
+h1 {
+  color: #0000ff;
+  text-align: center;
+  font-family: Arial, sans-serif;
 }
 
 p {
-  background-color: #20ff00;
-  text-align: left;
-  font-family: Courier New, Times New Roman;
+  line-height: normal;
 }
