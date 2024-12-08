@@ -53,3 +53,19 @@ a:hover, a:active {
 a:active {
   border: 3px solid: #000000;
 } 
+
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
