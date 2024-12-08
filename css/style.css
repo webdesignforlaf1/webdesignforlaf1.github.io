@@ -2,7 +2,7 @@ body {
   font-family: Courier New, Times New Roman;
   background-color: #dedede;
   font-size: 30px;
-}3
+}
 
 header {
   background-color: #dedede;
@@ -34,4 +34,13 @@ h1 {
 
 p {
   line-height: normal;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
