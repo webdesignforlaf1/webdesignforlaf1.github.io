@@ -49,3 +49,7 @@ a:hover, a:active {
   background-color: #f4c236;
   text-decoration: underline
 }
+
+a:active {
+  border: 3px solid: #000000;
+} 
