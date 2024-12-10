@@ -12,7 +12,11 @@ nav {
 }
 
 main {
+  background-image: url("../images/pink_blossoms.jpg");
+  height: 100px;
+  background-size: cover;
   background-color: #20ff00;
+  background-position: centre;
   font-size: 20px;
 }
 
