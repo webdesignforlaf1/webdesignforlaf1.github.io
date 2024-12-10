@@ -1,7 +1,7 @@
 body {
   font-family: Courier New, Times New Roman;
   font-size: 30px;
-  background: #dedede url("images/pink_blossoms.jpg") no-repeat fixed center;
+  background: #dedede url("../images/pink_blossoms.jpg") no-repeat fixed center;
 }
 
 header {
