@@ -11,12 +11,8 @@ nav {
   background-color: #00ffa6;
 }
 
-section {
-  background-image: url("../images/pink_blossoms.jpg");
-  height: 100px;
-  background-size: cover;
+main {
   background-color: #20ff00;
-  background-position: centre;
   font-size: 20px;
 }
 
