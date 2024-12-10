@@ -59,7 +59,10 @@ ul.a {
 }
 
 ul.b {
-  list-style-type: square;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 ol.c {
