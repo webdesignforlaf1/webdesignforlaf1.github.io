@@ -73,7 +73,7 @@ ol.d {
   list-style-type: lower-alpha;
 }
 
-current {
+.current {
   color: magenta;
   background-color: yellow;
 }
