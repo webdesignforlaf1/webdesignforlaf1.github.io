@@ -73,6 +73,11 @@ ol.d {
   list-style-type: lower-alpha;
 }
 
+current {
+  color: magenta;
+  background-color: yellow;
+}
+
 #mainLogo {
   border: 5px solid: #0006CC;
   margin: 0 auto;
