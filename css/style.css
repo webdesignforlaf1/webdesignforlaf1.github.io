@@ -1,6 +1,8 @@
 body {
   font-family: Courier New, Times New Roman;
-  background-color: #dedede;
+  background-color: #dedede; 
+  background-image: url("images/pink_blossoms.jpg");
+  background-repeat: repeat-y;
   font-size: 30px;
 }
 
