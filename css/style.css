@@ -76,6 +76,7 @@ ol.d {
 .current {
   color: magenta;
   background-color: yellow;
+  text-transform: uppercase;
 }
 
 #mainLogo {
