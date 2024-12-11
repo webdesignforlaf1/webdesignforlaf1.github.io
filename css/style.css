@@ -73,7 +73,7 @@ ul {
   height: 20%;
 }
 
-a[href$=".uk"] {
+a[href$=".org"] {
 	background-color: #36f4f2;
 	color: #ff4b15;
 }
