@@ -68,10 +68,10 @@ ul {
 }
 
 #mainLogo {
-  border: 5px solid: #0006CC;
-  margin: 0 auto;
-  width: 20%;
-  height: 20%;
+    border: azure;
+    margin: 0 auto;
+    width: 15%;
+    height: 15%;
 }
 
 a[href$=".org"] {
