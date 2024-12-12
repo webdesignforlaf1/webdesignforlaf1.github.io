@@ -47,11 +47,13 @@ p {
   font-weight: 900;
   color: #77ff00;
 }
+
 #para2 {
   line-height: normal;
   font-weight: 900;
   color: #fd00ff;
 }
+
 a:link, a:visited {
   background-color: #36f4f2;
   color: #ff4b15;
