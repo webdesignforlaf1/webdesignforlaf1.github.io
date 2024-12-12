@@ -25,7 +25,10 @@ section {
 }
 
 footer {
-  background-color: #ffe000;
+  background-image: url("../images/huron_river_cascades.jpg");
+  height: fit-content;
+  background-size: cover;
+  background-position: center;
 }
 
 li {
