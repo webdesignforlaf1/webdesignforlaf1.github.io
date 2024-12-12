@@ -41,6 +41,7 @@ h1 {
 
 p {
   line-height: normal;
+  font-weight: 900;
 }
 
 a:link, a:visited {
