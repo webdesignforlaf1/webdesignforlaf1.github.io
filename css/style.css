@@ -17,7 +17,7 @@ main {
   font-size: 20px;
 }
 
-section {
+div {
   background-image: url("../images/pink_blossoms.jpg");
   height: fit-content;
   background-size: cover;
