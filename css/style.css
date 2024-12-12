@@ -55,7 +55,7 @@ p {
 }
 
 a:link, a:visited {
-  background-color: #ebf436;
+  background-color: #f4ec36
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
@@ -63,7 +63,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: #f4c236;
+  background-color: #ebf436;
   text-decoration: underline
 }
 
