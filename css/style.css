@@ -1,7 +1,7 @@
 body {
   font-family: Courier New, Times New Roman;
   font-size: 30px;
-  background: #dedede url("../images/pink_blossoms.jpg") no-repeat fixed center;
+  /* background: #dedede url("../images/pink_blossoms.jpg") no-repeat fixed center; */
 }
 
 header {
@@ -15,6 +15,13 @@ nav {
 main {
   background-color: #20ff00;
   font-size: 20px;
+}
+
+section {
+  background-image: url("../images/pink_blossoms.jpg");
+  height: 100px;
+  background-size: cover;
+  background-position: centre;
 }
 
 footer {
