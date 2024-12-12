@@ -19,9 +19,9 @@ main {
 
 section {
   background-image: url("../images/pink_blossoms.jpg");
-  height: 100px;
+  height: fit-content;
   background-size: cover;
-  background-position: centre;
+  background-position: center;
 }
 
 footer {
