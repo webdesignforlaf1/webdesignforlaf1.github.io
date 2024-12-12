@@ -42,6 +42,7 @@ h1 {
 p {
   line-height: normal;
   font-weight: 900;
+  color: magenta;
 }
 
 a:link, a:visited {
