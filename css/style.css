@@ -18,10 +18,10 @@ main {
 }
 
 div {
-  background-image: url("../images/pink_blossoms.jpg");
-  height: fit-content;
-  background-size: cover;
-  background-position: center;
+  /*  background-image: url("../images/pink_blossoms.jpg"); */
+  /*  height: fit-content;  */
+  /*  background-size: cover; */
+  /*  background-position: center; */
 }
 
 #dv1 {
