@@ -60,3 +60,42 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
+
+a:hover, a:active {
+  background-color: #f4c236;
+  text-decoration: underline
+}
+
+a:active {
+  border: 3px solid: #000000;
+} 
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.current {
+  color: magenta;
+  background-color: yellow;
+  text-transform: uppercase;
+}
+
+#mainLogo {
+    border: azure;
+    margin: 0 auto;
+    width: 15%;
+    height: 15%;
+}
+
+a[href$=".org"] {
+   background-color: #36f4f2;
+   color: #ff4b15;
+}
+
+a[href$=".com"] {
+    background-color: #0000ff;
+    color: #20ff00;
+}
