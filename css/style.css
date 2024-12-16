@@ -18,13 +18,10 @@ main {
 }
 
 div {
-  /*  background-image: url("../images/pink_blossoms.jpg"); */
-  /*  height: fit-content;  */
-  /*  background-size: cover; */
-  /*  background-position: center; */
-}
-
-#dv1 {
+  background-image: url("../images/pink_blossoms.jpg");
+  height: fit-content;
+  background-size: cover;
+  background-position: center;
 }
 
 footer {
@@ -34,22 +31,6 @@ footer {
   background-position: center;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  /* justify-content: space-evenly; */
-  /* align-content: space-evenly; */
-  /* grid-template-rows: auto auto; */
-  background-color: #2196F3;
-  padding: 10px;
-}* 
-.grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
-}
 li {
   display: list-item;
   width: fit-content;
@@ -78,43 +59,4 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: #f4c236;
-  text-decoration: underline
-}
-
-a:active {
-  border: 3px solid: #000000;
-} 
-
-ul {
-  list-style-type: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.current {
-  color: magenta;
-  background-color: yellow;
-  text-transform: uppercase;
-}
-
-#mainLogo {
-    border: azure;
-    margin: 0 auto;
-    width: 15%;
-    height: 15%;
-}
-
-a[href$=".org"] {
-   background-color: #36f4f2;
-   color: #ff4b15;
-}
-
-a[href$=".com"] {
-    background-color: #0000ff;
-    color: #20ff00;
 }
