@@ -18,14 +18,14 @@ main {
 }
 
 section {
-  background-image: url("../images/pink_blossoms.jpg"); 
+  background-image: url("../images/hollow_tree.jpg"); 
   height: fit-content;  
   background-size: cover; 
   background-position: center; */
 }
 
 footer {
-  background-image: url("../images/tulips.jpg");
+  background-image: url("../images/hollow_tree.jpg");
   height: fit-content;
   background-size: cover;
   background-position: center;
@@ -53,7 +53,7 @@ li {
 }
 
 h1 {
-  color: #00ff5c;
+  color: #ff00dd;
   text-align: center;
   font-family: Arial, sans-serif;
 }
@@ -61,13 +61,13 @@ h1 {
 p {
   line-height: normal;
   font-weight: 900;
-  color: #77ff00;
+  color: #ff00dd;
 }
 
 #para2 {
   line-height: normal;
   font-weight: 900;
-  color: #31ff00;
+  color: #ff00dd;
 }
 
 a:link, a:visited {
