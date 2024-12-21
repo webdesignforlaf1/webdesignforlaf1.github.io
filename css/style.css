@@ -24,11 +24,20 @@ section {
   background-position: center; */
 }
 
+
 footer {
   background-image: url("../images/hollow_tree.jpg");
   height: fit-content;
   background-size: cover;
   background-position: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  background-color:#dedede;
 }
 
 .grid-container {
