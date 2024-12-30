@@ -1,7 +1,7 @@
 body {
   font-family: Courier New, Times New Roman;
   font-size: 30px;
-  /* background: #dedede url("../images/pink_blossoms.jpg") no-repeat fixed center; */
+  background: #dedede
 }
 
 header {
@@ -34,7 +34,7 @@ section {
 }
 
 div {
-display: inline-block;
+	display: inline-block;
 }
 
 footer {
@@ -52,6 +52,11 @@ footer {
   background-color:#ffeb3b;
 }
 
+img.flex-container{
+  width: 70%;
+  height: 50%
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: 40% 40%;
@@ -60,7 +65,7 @@ footer {
     background-color: #ffeb3b;
 }
 
-grid-container img {
+img.grid-container {
   width: 50%;
   height: 50%
 }
