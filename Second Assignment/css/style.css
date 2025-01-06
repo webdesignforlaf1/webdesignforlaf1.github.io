@@ -1,0 +1,147 @@
+body {
+  font-family: Courier New, Times New Roman;
+  font-size: 30px;
+  background: #dedede
+}
+
+header {
+  background-color: #dedede;
+}
+
+nav {
+  display: inline-block;
+  width: 80%;
+  background-color: #00ffa6;
+}
+
+nav img {
+  position: relative;
+  top: 20px;
+  width: 10%;
+}
+
+
+main {
+  background-color: #20ff00;
+  font-size: 30px;
+}
+
+section {
+  background-image: url("../images/hollow_tree.jpg"); 
+  height: fit-content;  
+  background-size: cover; 
+  background-position: center; */
+}
+
+div {
+	display: inline-block;
+}
+
+footer {
+  background-image: url("../images/hollow_tree.jpg");
+  height: fit-content;
+  background-size: cover;
+  background-position: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  background-color:#ffeb3b;
+}
+
+img.flex-container{
+  width: 70%;
+  height: 50%
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: space-evenly;
+    align-items: baseline;
+    background-color: #ffeb3b;
+}
+
+img.grid-container {
+  width: 50%;
+  height: 50%
+}
+
+.grid-item {
+  font-size: 30px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+}
+
+li {
+  display: list-item;
+  width: fit-content;
+}
+
+h1 {
+  color: #ff00dd;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  line-height: normal;
+  font-weight: 900;
+  color: #00ffea;
+}
+
+#para2 {
+  line-height: normal;
+  font-weight: 900;
+  color: #00ffea;
+}
+
+a:link, a:visited {
+  background-color: #f4ec36;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #f4c236;
+  text-decoration: underline
+}
+
+a:active {
+  border: 3px solid: #000000;
+} 
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.current {
+  color: magenta;
+  background-color: yellow;
+  text-transform: uppercase;
+}
+
+#mainLogo {
+    border: azure;
+    margin: 0 auto;
+    width: 15%;
+    height: 15%;
+}
+
+a[href$=".org"] {
+   background-color: #36f4f2;
+   color: #ff4b15;
+}
+
+a[href$=".com"] {
+    background-color: #0000ff;
+    color: #20ff00;
+}
