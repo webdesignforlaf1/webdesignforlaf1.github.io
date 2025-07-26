@@ -1,22 +1,34 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Photo Gallery</title>
+	<title>Home</title>
 	<link rel="stylesheet" href="css/gallery.css">
-	<script src = "js/gallery.js"></script>
+	<script src = "js/gallery1.js"></script>
 </head>
-<body>
+
+<body onload = "setImages()">
+
+<header>
+    <nav>
+	</nav>
+</header>
+  
+ <p>Refresh the page to load new images below selected at random</p>
+ <br>
 	
-	<div id = "image" onmouseover = "upDateDiv(this)" onmouseout = "unDoDiv(this)">
-		Hover over an image below to display here.
+	<div id = "image" onmouseover = "upDateDiv(this)" onmouseout = "unDoDiv(this)" onfocus = "upDateDiv(this)" onblur =  "unDoDiv(this)">
+		Hover or tab over an image below to display here.
 	</div>
-
-	<img class = "preview" alt = "Styling with a Bandana" src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon.jpg" onmouseover = "upDate(this)" onmouseout = "unDo()">
 	
-	<img class = "preview" alt = "With My Boy" src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon2.JPG" onmouseover = "upDate(this)" onmouseout = "unDo()">
-	
-	<img class = "preview" src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/bacon3.jpg" alt = "Young Puppy" onmouseover = "upDate(this)" onmouseout = "unDo()">
-
+	<img class = "preview" src="images1/Floral_Indulgence.jpg" alt="Floral Indulgence scented handcream" onmouseover = "upDate(this)" onmouseout = "unDo()" onfocus = "upDate(this)" onblur = "unDo()" >
+	<img class = "preview" src="images1/InnerCalm.jpg" alt="Inner Calm scented handcream" onmouseover = "upDate(this)" onmouseout = "unDo()" onfocus = "upDate(this)" onblur = "unDo()">
+	<img class = "preview" src="images1/Detoxifying.jpg" alt="Detoxification scented handcream" onmouseover = "upDate(this)" onmouseout = "unDo()" onfocus = "upDate(this)" onblur = "unDo()">
+	<img class = "preview" src="images1/Mulled_Wine.JPG alt="BTG scented handcream" onmouseover = "upDate(this)" onmouseout = "unDo()" onfocus = "upDate(this)" onblur = "unDo()">
+	<img class = "preview" src="images1/Water_Lily.jpg" alt="Water Lily scented handcream" onmouseover = "upDate(this)" onmouseout = "unDo()" onfocus = "upDate(this)" onblur = "unDo()">
+	<img class = "preview" src="images1/Honey_Whisky.JPG" alt="Honey and Whisky scented candle" onmouseover = "upDate(this)" onmouseout = "unDo()" onfocus = "upDate(this)" onblur = "unDo()">
+	<img class = "preview" src="images1/Festive_Christmas.JPG" alt="Festive Christmas scented candle" onmouseover = "upDate(this,updatetype1)" onmouseout = "unDo(updatetype2)" onfocus = "upDate(this)" onblur = "unDo()">
+	<img class = "preview" src="images1/Scenting_Candles.JPG" alt="Scenting scented candle" onmouseover = "upDate(this,updatetype1)" onmouseout = "unDo(updatetype2)" onfocus = "upDate(this)" onblur = "unDo()">
 </body>
 </html>
